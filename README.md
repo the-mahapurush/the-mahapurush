@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @the-mahapurush
+- 👋 Hi, I’m Ritesh
 - 👀 I’m interested in Data Science, AI, ML, NLP
 - 🌱 I’m currently doing research in NLP
 - 💞️ I’m looking to collaborate on AI
